@@ -1,1 +1,2 @@
-# RPiIOTInfoNote : References DeviceTypeInformation.cs from IOTDefaultApp
+# RPiIOTInfo
+Note : References DeviceTypeInformation.cs from IOTDefaultApp
